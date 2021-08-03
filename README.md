@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcel Nahir Samur aka @CosmosKiller, i'm a 28 y.o Argentinian tech enthusiast 
+- 👋 Hi, I’m Marcel Nahir Samur aka @CosmosKiller, i'm a 29 y.o Argentinian tech enthusiast 
 - 👀 I’m interested in IoT and Data Science!
 - 🌱 I’m currently learning the basics of programming in Python, looking forward to became an expert 
 - 💞️ I’m looking to collaborate on any IoT project were i can put my skills to test (C Programming, prototyping with Arduino, disigning PCBs with KiCAD) 
